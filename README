@@ -1,11 +1,7 @@
 
----
-
 # **Projeto de Classificação de Imagens com Hugging Face e Vision Transformer (ViT)**
 
 Este projeto demonstra como usar o modelo **Vision Transformer (ViT)** da Hugging Face para classificação de imagens. O objetivo é classificar imagens do dataset **CIFAR-10** em 10 categorias diferentes.
-
----
 
 ## **Descrição do Projeto**
 
@@ -16,16 +12,12 @@ O projeto utiliza o modelo pré-treinado **ViT (Vision Transformer)** da Hugging
 3. **Avaliação do modelo** no conjunto de teste.
 4. **Visualização dos resultados**.
 
----
-
 ## **Tecnologias Utilizadas**
 
 - **Hugging Face Transformers**: Para carregar e usar o modelo ViT.
 - **PyTorch**: Framework de deep learning.
 - **Datasets**: Biblioteca do Hugging Face para carregar e pré-processar dados.
 - **Matplotlib**: Para visualização das imagens e resultados.
-
----
 
 ## **Como Executar o Projeto**
 
